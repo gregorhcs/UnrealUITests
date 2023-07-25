@@ -1,0 +1,1 @@
+BuildAssist.bat "C:\Users\GregorSoenn\Documents\Projekte\UITests\UITests.uproject" "C:\Users\GregorSoenn\Documents\Builds\UITests"
