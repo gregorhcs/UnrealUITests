@@ -1,7 +1,7 @@
-node('unreal') {
-	checkout scm
-    
-    stage("Build") {
-        Build_UITests.bat
-    }
+checkout scm
+
+sh 'ls'
+
+stage("Build") {
+    bat 'Build_UITests.bat'
 }
