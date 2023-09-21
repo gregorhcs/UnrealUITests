@@ -8,7 +8,7 @@ public class UITests : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "Ink", "InkEditor", "Ink", "InkEditor" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
